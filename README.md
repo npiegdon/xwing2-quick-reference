@@ -1,4 +1,4 @@
-# An Improved X-Wing Second Edition Quick Reference
+# An X-Wing Second Edition Quick Reference Card
 
 ![Quick Reference Card](https://nicholas.piegdon.info/stuff/xwing2-quick-reference.jpg)
 
@@ -14,7 +14,7 @@ Download it from the [Latest Release](https://github.com/npiegdon/xwing2-quick-r
 This supplants the official quick reference by adding the following sections:
 
 - **Tokens**: What they imply and how to spend them.
-- **Maneuvers**: Never confuse Segnor's Loop with Tallon Roll again!  Also sorts out the subtle differences between moving through and overlapping various objects.
+- **Maneuvers**: Never confuse Segnor's Loop with Tallon Roll again!  Also sorts out the subtle differences between moving through and overlapping various objects.  Includes a diagram showing each.
 - **Obstacles**: What it means when you hit one and the differences between them.
 - Some front page wording has been updated to clarify a few subtle points.
 
