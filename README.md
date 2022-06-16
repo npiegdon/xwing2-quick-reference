@@ -1,10 +1,10 @@
-# An X-Wing Second Edition Quick Reference Card
+# An X-Wing Second Edition Quick Reference Cards
 
 ![Quick Reference Card](https://nicholas.piegdon.info/stuff/xwing2-quick-reference.jpg)
 
 The single-page quick reference included at the end of the official Rulebook covers most of the simple things (how to get tokens) but left off most of the fiddly, interesting bits (how to spend tokens).
 
-This version adds a second page and is formatted to be printed (and laminated) as a double-sided reference card.
+This version adds a second page and is formatted to be printed (and laminated) as a double-sided reference card. In the latest releases (for version 2.5), two more double-sided sheets were added for devices and scenarios, respectively.
 
 ### Where's the PDF?
 Download it from the [Latest Release](https://github.com/npiegdon/xwing2-quick-reference/releases/latest) page.
@@ -17,6 +17,8 @@ This supplants the official quick reference by adding the following sections:
 - **Maneuvers**: Never confuse Segnor's Loop with Tallon Roll again!  Also sorts out the subtle differences between moving through and overlapping various objects.  Includes a diagram showing each.
 - **Obstacles**: What it means when you hit one and the differences between them.
 - Some front page wording has been updated to clarify a few subtle points.
+- **Devices**: A new 2-page overview of all bombs, mines, and remotes, and their effects.
+- **Scenarios**: A new 2-page overview of the standard-play scenarios introduced by AMG with version 2.5.
 
 ## Color Dice Font
 
